@@ -298,9 +298,9 @@
             label5.AutoSize = true;
             label5.Location = new Point(16, 37);
             label5.Name = "label5";
-            label5.Size = new Size(140, 18);
+            label5.Size = new Size(149, 18);
             label5.TabIndex = 0;
-            label5.Text = "Enter student class";
+            label5.Text = "Enter student grade";
             // 
             // groupBox3
             // 
